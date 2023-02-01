@@ -1,0 +1,15 @@
+Features: 
+- +12V Supply Voltage
+- 5 x +10V CV inputs with pots controlling CV range
+- Large selection of visual types with rotary encoder split into 2 banks: Stringballs & spirographs created using the native Arduino trigonometry functions
+- Full control over every parameter of visual such as shape, size & position
+- Auto/Manual Mode Switch: Allows full control of every parameter individually or control over every parameter as a group with last pot
+- Inversion Switch: Change background colour from black to white or vice versa. Allows for use in brightly light enviroments or outdoors in the sun. 
+- CLK input: Accepts a G8 signal to change colour of visual & add small pertubation in auto mode
+- Visual input: Accepts a G8 signal to change the visual type
+- Bank input: Accepts a G8 signal to change the visual bank
+- Uses standard "off-the-shelf" components (Adafruit (or 3rd party brand) ST7789 320x240 colour TFT Display (No touch screen/SD card version) can be found for a cheap price on AliExpress)
+- User friendly Arduino based software
+- Completely open source - if you want to make your own version of the Visualiser or modify the module in any way, please feel free to do so!
+- PCB/front panel sets available at: 
+- Full video tutorial available at: 
