@@ -8,7 +8,7 @@ Features:
 - CLK input: Accepts a G8 signal to change colour of visual & add small pertubation in auto mode
 - Visual input: Accepts a G8 signal to change the visual type
 - Bank input: Accepts a G8 signal to change the visual bank
-- Uses standard "off-the-shelf" components (Adafruit (or 3rd party brand) ST7789 320x240 colour TFT Display (No touch screen/SD card version) can be found for a cheap price on AliExpress)
+- Uses standard "off-the-shelf" components (Adafruit (or 3rd party brand) ST7789 320x240 colour TFT Display (No touch screen/SD card version) can be found for a cheap price on AliExpress here: https://www.aliexpress.com/item/1005004359328596.html?spm=a2g0o.order_list.order_list_main.13.7d921802YFv4Y6)
 - User friendly Arduino based software
 - Completely open source - if you want to make your own version of the Visualiser or modify the module in any way, please feel free to do so!
 - PCB/front panel sets available at: https://www.etsy.com/au/listing/1393357242/kosmo-format-graphic-visualiser-pcbfront
